@@ -1,5 +1,5 @@
 # Among Us Internal Cheat
-  ![MIT](https://img.shields.io/badge/build-passing-brightgreen)
+  ![MIT](https://img.shields.io/badge/licence-MIT-blue) ![PASSING](https://img.shields.io/badge/build-passing-brightgreen)
   
   ## Description 
   An among us internal cheat using ImGui
