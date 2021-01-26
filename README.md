@@ -1,6 +1,6 @@
 # Among Us Internal Cheat
 
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/connietran-dev/readme-generator?style=flat&logo=appveyor)
+
   
   
   ## Description 
