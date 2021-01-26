@@ -1,7 +1,5 @@
 # Among Us Internal Cheat
-
   ![MIT](https://img.shields.io/badge/license-MIT-green)
-  ---
   
   ## Description 
   An among us internal cheat using ImGui
