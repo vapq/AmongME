@@ -7,5 +7,5 @@
  
  <p align="center">
   <b>Not Affiliated With Innersloth</b><br>
-  <b>&copy; vapq.cf 2020 - 2021/b><br>
+  <b>&copy; vapq.cf 2020 - 2021</b><br>
 </p>
