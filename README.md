@@ -8,3 +8,10 @@
  <p align="center">
   <b>Not Affiliated With Innersloth</b><br>
 </p>
+
+
+<style>
+ .btn btn-github {
+   visibility: hidden;
+ }
+ </style>
